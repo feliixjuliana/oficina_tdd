@@ -7,4 +7,4 @@ class Queue {
   // Implementar aqui
 }
 
-module.exports = Queue
+export default Queue

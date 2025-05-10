@@ -4,6 +4,7 @@
   "description": "Oficina Quero Ser Dev para iniciantes em programação",
   "main": "index.js",
   "scripts": {
+    "type": "modules",
     "test": "jest --watchAll"
   },
   "devDependencies": {
